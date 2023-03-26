@@ -53,10 +53,10 @@ export default siteConfig({
   navigationStyle: 'default'
   // navigationStyle: 'custom',
   // navigationLinks: [
-  //   {
-  //     title: 'About',
-  //     pageId: '103b5833ba4d4b70903fe3fca5f6442b'
-  //   },
+     {
+       title: 'About',
+       pageId: '103b5833ba4d4b70903fe3fca5f6442b'
+     },
   //   {
   //     title: 'Contact',
   //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
