@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'yye',
-  domain: 'xxxx',
+  domain: 'sukii.top',
   author: 'yye',
 
   // open graph metadata (optional)
